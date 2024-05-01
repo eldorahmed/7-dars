@@ -1,5 +1,5 @@
 // 7-dars Masalalari
-
+alert("Masalalar ishlab comment qilib qoyilgan");
 // 1-masala
 
 // let oddNumbers = [];
