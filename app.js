@@ -246,3 +246,20 @@ alert("Masalalar ishlab comment qilib qoyilgan");
 //   return newArr.concat(nnewArr);
 // }
 // console.log(printEvenIndex(arr));
+
+// 10-masala
+
+// function alternateArray(arr) {
+//   let result = [];
+//   let n = arr.length;
+
+//   for (let i = 0; i < n / 2; i += 2) {
+//     result.push(arr[i], arr[i + 1], arr[n - 1 - i], arr[n - 2 - i]);
+//   }
+
+//   return result;
+// }
+// let inputArray = [4, 5, 7, 8, 6, 9];
+// let outputArray = alternateArray(inputArray);
+
+// console.log(outputArray);
